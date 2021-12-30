@@ -11,4 +11,4 @@ eureka:
       register-with-eureka: true
       fetch-registry: true
 
-message: Welcome to the Store
+message: Welcome to the Manoj Store
